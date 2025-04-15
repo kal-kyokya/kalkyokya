@@ -1,6 +1,6 @@
-<h2 align="center">Greetings 👋</h2></br>
+<h2 align="center">Jean-Paul De MArie KYOKYA KALULU 👋</h2></br>
 
-<b>Jean-Paul KYOKYA is a Software Engineering student at the United States International University-Africa (USIU) in Nairobi and the founder of Futtech and Everything IoT—two ventures at the intersection of sports and technology.</b>
+<b>A Software Engineering student at the United States International University-Africa (USIU) in Nairobi and the founder of Futtech and Everything IoT—two ventures at the intersection of sports and technology.</b>
 He is passionate about leveraging data, embedded systems, and connectivity to solve real problems across the African continent, especially in football performance and IoT adoption.</br>
 
 Through Futtech, Jean-Paul is building an AI-powered platform that uses drone footage and tactical analysis to accelerate player development for grassroots and university-level footballers in Africa. With Everything IoT, he’s empowering African developers to prototype & deploy affordable, context-aware IoT systems for industries ranging from agriculture to energy.</br>
