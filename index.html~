@@ -71,13 +71,6 @@
 	    </li>
 	    <li class="nav-item">
 	      <a class="nav-link"
-		 href="#services"
-		>
-		Services
-	      </a>
-	    </li>
-	    <li class="nav-item">
-	      <a class="nav-link"
 		 href="#projects"
 		>
 		Projects
@@ -95,7 +88,6 @@
       </div>
     </nav>
 
-    <br />
     <br />
     <h1 align="center">Welcome to Jean-Paul KYOKYA's Website !</h1>
     <p>If you see this page, it means I have shared the link ith you.
