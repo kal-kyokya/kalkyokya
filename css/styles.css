@@ -8253,6 +8253,11 @@ textarea.form-control-lg {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.text-white-65 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.65) !important;
+}
+
 .text-reset {
   --bs-text-opacity: 1;
   color: inherit !important;
@@ -11124,7 +11129,7 @@ body {
 
 .story-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/aboutMe.JPEG");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.8) 75%, #000 100%);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
