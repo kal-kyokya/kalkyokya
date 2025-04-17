@@ -609,7 +609,7 @@ progress {
 .img-thumbnail {
   padding: 0.25rem;
   border-radius: 1.3rem;
-  max-width: 26%;
+  max-width: 39%;
   height: auto;
   object-fit: cover;
 }
@@ -11119,7 +11119,19 @@ body {
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
-  margin-bottom: 2.6rem;
+  margin-bottom: 5rem;
+}
+
+.story-section {
+  padding-top: 10rem;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/aboutMe.JPEG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.story-section p {
+  margin-bottom: 5rem;
 }
 
 .projects-section {
