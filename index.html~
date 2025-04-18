@@ -148,7 +148,7 @@
 
     <!-- Projects -->
 
-    <section id="startups"
+    <section id="projects"
 	     class="projects-section bg-light"
 	     >
       <div class="container px-4 px-lg-5">
@@ -194,14 +194,8 @@
 	</div>
 
 	<!-- Malisho -->
-	<div class="row gx-0 justify-content-center">
-	  <div class="col-lg-4 text-center">
-	    <img class="img-fluid"
-		 src="assets/malisho.png"
-		 alt="Icon of a non-profit named Malisho."
-		 />
-	  </div>
-	  <div class="col-lg-4 order-lg-first">
+	<div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+	  <div class="col-lg-4">
 	    <div class="bg-black text-center h-100 project">
 	      <div class="d-flex h-100">
 		<div class="project-text w-100 my-auto text-center text-lg-right">
@@ -213,87 +207,27 @@
 	      </div>
 	    </div>
 	  </div>
+	  <div class="col-lg-4 text-center">
+	    <img class="img-fluid"
+		 src="assets/malisho.png"
+		 alt="Icon of a non-profit named Malisho."
+		 />
+	  </div>
 	</div>
       </div>
     </section>
 
-    <!-- Contact -->
+    <br />
+    <br />
 
-    <section id="contact"
-	     class="contact-section bg-black">
-      <div class="container px-4 px-lg-5">
-	<div class="row gx-4 gx-lg-5">
-	  <div class="col-md-4 mb-3 mb-md-0">
-	    <div class="card py-4 h-100">
-	      <div class="card-body text-center">
-		<i class="fas fa-mobile-alt text-primary mb-2"></i>
-		<h4>CV</h4>
-		<hr class="my-4 mx-auto" />
-		<div class="small text-black-50">
-		  My Resume
-		</div>
-	      </div>
-	    </div>
-	  </div>
-	  <div class="col-md-4 mb-3 mb-md-0">
-	    <div class="card py-4 h-100">
-	      <div class="card-body text-center">
-		<i class="fas fa-map-marked-alt text-primary mb-2"></i>
-		<h4>Address</h4>
-		<hr class="my-4 mx-auto" />
-		<div class="small text-black-50">
-		  Nairobi, Kenya, Africa
-		</div>
-	      </div>
-	    </div>
-	  </div>
-	  <div class="col-md-4 mb-3 mb-md-0">
-	    <div class="card py-4 h-100">
-	      <div class="card-body text-center">
-		<i class="fas fa-envelope text-primary mb-2"></i>
-		<h4>Email</h4>
-		<hr class="my-4 mx-auto" />
-		<div class="small text-black-50">
-		  <a href="#!">
-		    fontina-tildes03@icloud.com
-		  </a>
-		</div>
-	      </div>
-	    </div>
-	  </div>
-	</div>
-	<div class="social d-flex justify-content-center">
-	  <a class="mx-5"
-	     href="https://www.github.com/kal-kyokya/"
-	     target="_blank"
-	     >
-	    <img alt="GitHub"
-		 src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=pink"/>
-	  </a>
-	  <a class="mx-5"
-	     href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
-	     target="_blank"
-	     >
-	    <img alt="LinkedIn"
-		 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-	  </a>
-	  <a class="mx-5"
-	     href="https://www.instagram.com/kal_kyokya/"
-	     target="_blank"
-	     >
-	    <img alt="Instagram"
-		 src="https://img.shields.io/badge/instagram-%23E72B96.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-	  </a>
-	</div>
-      </div>
-    </section>
+    <p>For online documentation and support contact me through:<br/>
+      GitHub:<br/>
+      <a href="https://www.github.com/kal-kyokya/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=pink" /></a><br/>
+      Instagram:<br/>
+      <a href="https://www.instagram.com/kal_kyokya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E72B96.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a><br/>
+      LinkedIn:<br/>
+      <a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-    <!-- Footer -->
-
-    <footer class="footer small text-center bg-black text-white-50">
-      <em class="container px-4 px-lg-5">
-	Thank you for using kalkyokya.tech
-      </em>
-    </footer>
+    <p><em>Thank you for using kalkyokya.tech.</em></p>
   </body>
 </html>
