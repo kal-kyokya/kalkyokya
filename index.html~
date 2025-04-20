@@ -126,7 +126,7 @@
 	      <i class="fa-solid fa-user-tie mb-2"></i><br />
 	      About me
 	    </h2>
-	    <p class="text-white-50">I create technology-driven solutions and automated electronic systems using my Electrical & Electronics knowledge and Software Engineering skills—strongly led by my curious and explorative nature.</p>
+	    <p class="text-white-50">I create technology-driven solutions, and ease life through automated electronic systems, using my Electrical & Electronics knowledge and Software Engineering skills. I am led by my curious and explorative nature.</p>
 	  </div>
 	</div>
       </div>
@@ -145,11 +145,12 @@
 	      My story
 	    </h2>
 	    <div class="col-lg-12 mb-5">
-	      <iframe width="100%"
-		      height="315"
-		      src="https://www.youtube.com/embed/NAO20Xa7EJA"
-		      >
-	      </iframe>
+	      <video width="100%"
+		     height="100%"
+		     controls>
+		<source src="assets/myStory.mp4"
+			type="video/mp4">
+	      </video>
 	    </div>
 	  </div>
 	</div>
@@ -287,33 +288,26 @@
 	  </div>
 	</div>
 	<div class="social d-flex justify-content-center">
-	  <a class="mx-auto"
+	  <a class="mx-5"
 	     href="https://www.github.com/kal-kyokya/"
 	     target="_blank"
 	     >
 	    <img alt="GitHub"
-		 src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+		 src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=pink"/>
 	  </a>
-	  <a class="mx-auto"
-	     href="https://medium.com/@kal-kyokya"
-	     target="_blank"
-	     >
-	    <img alt="Twitter"
-		 src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
-	  </a>
-	  <a class="mx-auto"
+	  <a class="mx-5"
 	     href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
 	     target="_blank"
 	     >
 	    <img alt="LinkedIn"
-		 src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+		 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	  </a>
-	  <a class="mx-auto"
+	  <a class="mx-5"
 	     href="https://www.instagram.com/kal_kyokya/"
 	     target="_blank"
 	     >
 	    <img alt="Instagram"
-		 src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+		 src="https://img.shields.io/badge/instagram-%23E72B96.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 	  </a>
 	</div>
       </div>
