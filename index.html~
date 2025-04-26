@@ -221,8 +221,7 @@
 		<div class="project-text w-100 my-auto text-center text-lg-right">
 		  <h4 class="text-white">Malisho</h4>
 		  <p class="mb-0 text-white-50">
-		    A medical initiative aimed at promoting Mother-Child health and nutrition.<br />
-		    Marrying Agriculture and Medecine.
+		    Une population formé et informé afin de pérenniser le changement. Ensemble contre la malnutrition infantile.
 		  </p>
 		</div>
 	      </div>
@@ -323,8 +322,6 @@
     <!-- Footer -->
 
     <footer class="footer small text-center bg-black text-white-50">
-      Copyright &copy; Since July 2024<br /><br />
-
       <em class="container px-4 px-lg-5">
 	Thank you for visiting kalkyokya.tech
       </em>
