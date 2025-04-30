@@ -10418,7 +10418,7 @@ body {
 }
 
 .pop {
-  transition: transform .5s ease-out;
+  transition: transform .3s ease-out;
 }
 
 .pop:hover {
