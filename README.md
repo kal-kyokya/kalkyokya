@@ -4,6 +4,7 @@
 </br>
 Through Futtech, Jean-Paul is building an AI-powered platform that uses drone footage and tactical analysis to accelerate player development for grassroots and university-level footballers in Africa. With Everything IoT, he’s empowering African developers to prototype and deploy affordable, context-aware IoT systems for industries ranging from agriculture to energy.
 Before launching these ventures, Jean-Paul graduated from the ALX Software Engineering Program and ranked among the top performers. He is currently completing the ALX Backend Pro Dev program while leading innovation efforts on campus, including a football-tech research initiative called the FUTTECH Project.
-</br></br> My Mission:</br><p><em>"To Use Football And Technology To Better My Life And That Of Others."</em></p>
+</br></br> His Mission Statement:</br>
+<p><em>"Use Football And Technology To Better My Life And That Of Others."</em></p>
 
-<h3 align="center">A Passionate Full Stack Developer in Kenya</h3>
+<h3>A Passionate Full Stack Developer in Kenya</h3>
