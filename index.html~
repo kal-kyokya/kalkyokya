@@ -270,22 +270,18 @@
 		 alt="A screenshot of Coach Kirubi's online shop's home page."
 		 />
 	  </div>
-	  <div class="col-lg-4 order-lg-first">
-	    <div class="bg-black text-center h-100 project">
-	      <div class="d-flex h-100">
-		<div class="project-text w-100 my-auto text-center text-lg-right">
-		  <h4 class="text-white">Coach Kirubi</h4>
-		  <p class="mb-0 text-white-50">
-		    Online shop facilitating acquisition of premium coaching programs built for speed, strength, and peak performance.<br />
+	  <div class="col-xl-4 col-lg-5">
+	    <div class="featured-text text-center text-lg-left">
+	      <h4>Coach Kirubi</h4>
+	      <p class="text-black-50 mb-0">
+		Online shop facilitating acquisition of premium coaching programs built for speed, strength, and peak performance.
 		Train like an athlete. Perform like a champion.
-		  </p><br />
-		  <a href="https://coachkirubi.kalkyokya.tech/"
-		     target="_blank"
-		     rel="noopener noreferrer">
-		    <i>Check it out here</i>
-		  </a>
-
-		</div>		
+	      </p><br />
+	      <a href="https://coachkirubi.kalkyokya.tech/"
+		 target="_blank"
+		 rel="noopener noreferrer">
+		<i>Check it out here</i>
+	      </a>
 	    </div>
 	  </div>
 	</div>
