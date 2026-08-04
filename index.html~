@@ -111,7 +111,7 @@
 	    <h1 class="mx-auto my-0 mt-dem flow"
 		>Jean-Paul KYOKYA</h1>
 	    <h2 class="text-white-50 mx-auto mt-3 mb-5"
-		>A Nairobi-based full-stack Engineer and Tech startup founder</h2>
+		>A Nairobi-based full-stack Engineer and a Techpreneur</h2>
 	    <a class="btn btn-info"
 	       href="#about"
 	       >
@@ -189,7 +189,7 @@
 	      <p class="text-black-50 mb-0">
 		Using drones, tactical video footages, and AI-powered analysis, we help African players & coaches understand and improve their movement, positioning, and decision-making.
 	      </p><br />
-	      <a href="https://futtech.kalkyokya.tech/"
+	      <a href="https://futtech.kalkyokya.tech/showcase"
 		 target="_blank"
 		 rel="noopener noreferrer">
 		<i>Check it out here</i>
@@ -388,7 +388,7 @@
     <!-- Footer -->
 
     <footer class="footer small text-center bg-black text-white-50">
-      Copyright &copy; 2024-2026<br /><br />
+      &copy; 2024-2026<br /><br />
 
       <em class="container px-4 px-lg-5">
 	Thank you for visiting kalkyokya.tech
