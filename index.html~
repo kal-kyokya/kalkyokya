@@ -111,7 +111,7 @@
 	    <h1 class="mx-auto my-0 mt-dem flow"
 		>Jean-Paul KYOKYA</h1>
 	    <h2 class="text-white-50 mx-auto mt-3 mb-5"
-		>A Nairobi-based full-stack Engineer and a Techpreneur</h2>
+		>A Nairobi-based Full-stack Engineer and a Techpreneur</h2>
 	    <a class="btn btn-info"
 	       href="#about"
 	       >
@@ -261,6 +261,35 @@
 	  <i class="fa-solid fa-building mb-2"></i><br />
 	  Clients
 	</h2>
+
+	<!-- Almafrica -->
+	<div class="row gx-0 mb-4 mb-lg-5 align-items-center pop">
+	  <div class="col-xl-8 col-lg-7">
+	    <img class="img-fluid mb-3 mb-lg-3"
+		 src="assets/AlmafricaMVPHomePage.png"
+		 alt="A screenshot of the Almafrica MVP's home page."
+		 />
+	  </div>
+	  <div class="col-lg-4 order-lg-first">
+	    <div class="bg-black text-center h-100 project">
+	      <div class="d-flex h-100">
+		<div class="project-text w-100 my-auto text-center text-lg-right">
+		  <h4 class="text-white">Almafrica by Jean-Paul KYOKYA</h4>
+		  <p class="mb-0 text-white-50">
+		    The purpose of this application extends beyond demonstrating authentication, authorization, and profile management.<br />
+		    It is an opportunity to demonstrate how technical decisions can be driven by user experience rather than by technology alone.<br />
+		  </p><br />
+		  <a href="https://almafrica.kalkyokya.tech/"
+		     target="_blank"
+		     rel="noopener noreferrer">
+		    <i>Check it out here</i>
+		  </a>
+
+		</div>		
+	      </div>
+	    </div>
+	  </div>
+	</div>
 
 	<!-- Coach Kirubi -->
 	<div class="row gx-0 mb-4 mb-lg-5 align-items-center pop">
