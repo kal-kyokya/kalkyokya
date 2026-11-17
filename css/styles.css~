@@ -10324,9 +10324,6 @@ body {
   padding-top: 5rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
-.about-section p {
-  margin-bottom: 5rem;
-}
 
 .story-section {
   padding-top: 5rem;
@@ -10449,7 +10446,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible,
 .skip-link { position: fixed; top: -6rem; left: 1rem; z-index: 1040; background: white; padding: 1rem; }
 .skip-link:focus { top: 1rem; }
 .masthead { height: auto; padding: 8rem 0 5rem; min-height: 100svh;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,.3), rgba(0,0,0,.7) 75%, #000), url("../assets/bg-masthead.webp"); }
+  background-image: linear-gradient(to bottom, rgba(0,0,0,.3), rgba(0,0,0,.7) 75%, #000), url("../assets/bg-masthead.JPEG"); }
 .masthead h2 { max-width: 45rem; color: #fff; }
 .hero-description, .hero-secondary { max-width: 48rem; margin-left: auto; margin-right: auto; color: #eee; }
 .hero-actions { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; margin-top: 2rem; }
@@ -10473,7 +10470,6 @@ a:focus-visible, button:focus-visible, summary:focus-visible,
 .football-section h2, .football-section h3, .about-section h2, .about-section h3 { color: white; }
 .football-section h3 { font-size: 1.3rem; }
 .about-section { padding-bottom: 5rem; color: #ddd; }
-.about-section p { margin-bottom: 1.5rem; }
 .about-copy { margin-top: 2rem; }
 .profile-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem 1.5rem; margin: 2rem 0; }
 summary { cursor: pointer; padding: 1rem 0; }
