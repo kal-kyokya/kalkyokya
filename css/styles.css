@@ -10324,9 +10324,6 @@ body {
   padding-top: 5rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
-.about-section p {
-  margin-bottom: 5rem;
-}
 
 .story-section {
   padding-top: 5rem;
@@ -10438,3 +10435,64 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* Small additions for the new content; the original Grayscale theme stays above. */
+body { font-family: "Poppins", sans-serif; }
+a { text-underline-offset: .2em; }
+a:focus-visible, button:focus-visible, summary:focus-visible,
+#mainNav .navbar-toggler:focus-visible { outline: 3px solid #b27313; outline-offset: 4px; }
+[id] { scroll-margin-top: 6rem; }
+#page-top { scroll-margin-top: 0; }
+.skip-link { position: fixed; top: -6rem; left: 1rem; z-index: 1040; background: white; padding: 1rem; }
+.skip-link:focus { top: 1rem; }
+.masthead { height: auto; padding: 8rem 0 5rem; min-height: 100svh;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,.3), rgba(0,0,0,.7) 75%, #000), url("../assets/bg-masthead.JPEG"); }
+.masthead h2 { max-width: 45rem; color: #fff; }
+.hero-description, .hero-secondary { max-width: 48rem; margin-left: auto; margin-right: auto; color: #eee; }
+.hero-actions { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; margin-top: 2rem; }
+.btn { white-space: normal; }
+.quiet-link, .about-section a, .football-section a { color: #a5cfcb; }
+.proof-section { padding: 3rem 0; background: #f8f9fa; }
+.section-intro h2 { font-size: 1.4rem; }
+.proof-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem 3rem; margin: 2rem 0 0; }
+.proof-grid dt { font-size: .85rem; font-weight: 400; }
+.proof-grid dd { font-size: 1.35rem; margin: .5rem 0 0; }
+.proof-section a, .featured-text a, .contact-section .card a { color: #356e69; }
+.eyebrow { font-size: .8rem; text-transform: uppercase; letter-spacing: .1rem; }
+.section-lead { max-width: 45rem; margin: 1.5rem 0 3rem; }
+.project-image { display: block; }
+.project-image img { display: block; width: 100%; height: auto; }
+.featured-text p, .project-text p { font-size: .95rem; line-height: 1.7; }
+.project-text { color: #ddd; }
+.project-text h3 { color: white; }
+.project-text a { color: #a5cfcb; }
+.football-section { padding-bottom: 5rem; color: #ddd; }
+.football-section h2, .football-section h3, .about-section h2, .about-section h3 { color: white; }
+.football-section h3 { font-size: 1.3rem; }
+.about-section { padding-bottom: 5rem; color: #ddd; }
+.about-copy { margin-top: 2rem; }
+.profile-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem 1.5rem; margin: 2rem 0; }
+summary { cursor: pointer; padding: 1rem 0; }
+.story-block { margin-top: 3rem; }
+.contact-panel > p { max-width: 45rem; margin: 1.5rem auto; }
+.contact-panel > h2, .contact-panel > p { color: #ddd; }
+.contact-section .card h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: .15rem; }
+.contact-note, .gmail-link { font-size: .9rem; }
+.footer { color: #aaa; }
+.footer a { color: #a5cfcb; }
+@media (max-width: 575.98px) {
+  .masthead h1 { letter-spacing: .25rem; font-size: 2.3rem; line-height: 1.2; }
+  .masthead h2 { font-size: 1.15rem; }
+  .hero-description, .hero-secondary { font-size: .85rem; }
+  .hero-actions .btn { padding: 1rem; letter-spacing: .08rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+/* Preserve the original button fill and menu outline with readable text. */
+.btn-info, .btn-info:hover, .btn-info:focus-visible, .btn-info:active { color: #082d34; }
+#mainNav .navbar-toggler { color: #356e69; }
+#mainNav.navbar-shrink .nav-link.active { color: #356e69; }
+.hero-copy { text-shadow: 0 2px 5px rgba(0, 0, 0, .8); }
+.hero-actions { text-shadow: none; }
