@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+	  content="width=device-width, initial-scale=1, shrink-to-fit=no"
+	  />
+    <meta name="description"
+	  content="Jean-Paul KYOKYA builds web apps and MVPs for founders and small teams. Explore software projects, football analysis and editing, and request an introductory call."
+	  >
+    <meta name="author"
+	  content="Jean-Paul KYOKYA" />
+
+    <title>Jean-Paul KYOKYA | Web Apps &amp; Football analysis</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+	  rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+	  rel="stylesheet" />
+
+    <link rel="icon"
+	  type="image/x-icon"
+	  href="assets/favicon.ico"
+	  />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="css/styles.css"
+	  rel="stylesheet"
+	  />
+
+    <style>
+      body {
+          font-family: 'Poppins', sans-serif;
+      }
+
+    </style>
+  </head>
+
+  <body id="page-top">
+    <!-- Navigation -->
+
+    <nav id="mainNav"
+	 class="navbar navbar-expand-lg navbar-light fixed-top">
+      <div class="container px-4 px-lg-5">
+	<a class="navbar-brand"
+	   href="#page-top"
+	   >
+	  kalkyokya
+	</a>
+
+	<button class="navbar-toggler navbar-toggler-right"
+		type="button"
+		data-bs-toggle="collapse"
+		data-bs-target="#navbarResponsive"
+		aria-controls="navbarResponsive"
+		aria-expanded="false"
+		aria-label="Toggle navigation"
+		>
+	  Menu
+	  <i class="fas fa-bars"></i>
+	</button>
+	<div id="navbarResponsive"
+	     class="collapse navbar-collapse"
+	     >
+	  <ul class="navbar-nav ms-auto">
+	    <li class="nav-item">
+	      <a class="nav-link"
+		 href="#projects"
+		 >
+		Software projects
+	      </a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link"
+		 href="#football"
+		 target="_blank"
+		 rel="noopener noreferrer"
+		 >
+		Football &amp; editing
+	      </a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link"
+		 href="#about"
+		 >
+		About
+	      </a>
+	    </li>
+	    <li class="nav-item">
+	      <a class="nav-link"
+		 href="#contact"
+		 >
+		Let's talk
+	      </a>
+	    </li>
+	  </ul>
+	</div>
+      </div>
+    </nav>
+
+    <!-- masthead -->
+
+    <header class="masthead">
+      <div class="mg-50 container px-4 px-lg-4 d-flex h-100 align-items-center justify-content-center">
+	<div class="d-flex justify-content-center">
+	  <div class="text-center">
+	    <h1 class="mx-auto my-0 mt-dem flow"
+		>Jean-Paul KYOKYA</h1>
+	    <h2 class="text-white-50 mx-auto mt-3 mb-5"
+		>A Nairobi-based Full-stack Engineer and a Football Techpreneur</h2>
+            <div class="hero-actions">
+              <!-- BOOKING DESTINATION: replace both data-primary-cta hrefs
+		   and labels when a scheduler is confirmed. -->
+              <a class="btn btn-info"
+		 data-primary-cta="hero"
+		 href="mailto:jeanpauldemariekyokya@gmail.com?subject=Introductory%20call%20request&amp;body=My%20goal%3A%20%0AWhat%20I%20already%20have%3A%20%0ATimeline%3A%20"
+		 >
+		Request an introductory call
+	      </a>
+            </div>
+	  </div>
+	</div>
+      </div>
+    </header>
+
+    <section class="proof-section text-center" aria-labelledby="proof-title">
+      <div class="container px-4 px-lg-5">
+        <div class="section-intro text-center">
+          <h2 id="proof-title">My Upwork profile</h2>
+          <a href="https://www.upwork.com/freelancers/~013d50e46911e6f7b1">View my Upwork profile</a>
+        </div>
+        <!-- UPWORK FIGURES: supplied profile snapshot; update these values together. -->
+        <dl class="proof-grid">
+          <div><dt>Profile status</dt><dd>Top Rated</dd></div>
+          <div><dt>Job Success</dt><dd>100%</dd></div>
+          <div><dt>Total earnings</dt><dd>$1K+</dd></div>
+          <div><dt>Total jobs</dt><dd>9</dd></div>
+          <div><dt>Upwork profile rate</dt><dd>$20.00/hr</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- About -->
+
+    <section id="about"
+	     class="about-section text-center"
+	     >
+      <div class="container px-4 px-lg-4 pop">
+	<div class="row gx-4 gx-lg-4 justify-content-center">
+          <div class="col-lg-8">
+	    <h2 class="text-white mb-4">
+              <i class="fa-solid fa-user-tie mb-2"></i><br />
+              About me
+	    </h2>
+	    <div class="text-white-50 container px-4 px-lg-5">
+              <div class="text-center mx-auto">
+		<p class="hero-description">I help founders and small teams turn an idea or a manual workflow into a working web app.</p>
+		<p class="hero-secondary">I also help football teams and creators turn match footage into tactical breakdowns and short-form edits.</p>
+              </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+
+    <section id="projects"
+	     class="projects-section bg-light"
+	     aria-labelledby="work-title"
+	     >
+      <div class="container px-4 px-lg-5">
+	<h2 id="work-title"
+	    class="text-black-50 text-center"
+	    >
+	  <i class="fa-solid fa-building mb-2"></i>
+	  <br />
+	  Projects
+	</h2>
+	<p class="section-lead text-center mx-auto">Web apps, Football video analysis, an MVP, Football video editing, and an online shop. Here’s what I’ve been building.</p>
+
+	<!-- Futtech -->
+	<div class="row gx-0 mb-4 mb-lg-5 align-items-center">
+          <article class="row gx-0 mb-5 align-items-stretch pop"
+		   aria-labelledby="futtech-title"
+		   >
+	    <div class="col-xl-8 col-lg-7">
+	      <a class="project-image"
+		 href="https://futtech.kalkyokya.tech/showcase"
+		 aria-label="Explore the Futtech showcase"
+		 >
+		<img src="assets/futtechRegisterPage.png"
+		     width="1100"
+		     height="618"
+		     loading="lazy"
+		     decoding="async"
+		     alt="Futtech registration page with a match-footage preview and membership introduction."
+		     >
+              </a>
+	    </div>
+	    <div class="col-xl-4 col-lg-5">
+	      <div class="featured-text text-center text-lg-start">
+		<h3 id="futtech-title">Futtech</h3>
+		<p>
+		  Players and coaches need a clearer view of movement,
+		  positioning, and decisions on the pitch.
+		</p>
+		<p>
+		  <strong>My contribution:</strong>
+		  I’m building Futtech, combining web development with
+		  drone footage and tactical analysis for African football.
+		</p>
+		<p>
+		  <strong>Explore:</strong>
+		  the public showcase introduces the platform;
+		  the screenshot shows its membership and registration experience.
+		</p>
+		<a href="https://futtech.kalkyokya.tech/showcase">
+		  Explore the Futtech showcase
+		</a>
+              </div>
+	    </div>
+	  </article>
+
+	<!-- Eviot -->
+	<div class="row gx-0 mb-5 mb-lg-0 justify-content-center pop">
+	  <div class="col-lg-4 text-center">
+	    <img class="img-fluid"
+		 src="assets/everythingIoT.png"
+		 alt="A graphic depicting the potential of IoT."
+		 />
+	  </div>
+	  <div class="col-lg-4">
+	    <div class="bg-black text-center h-100 project">
+	      <div class="d-flex h-100">
+		<div class="project-text w-100 my-auto text-center text-lg-right">
+		  <h4 class="text-white">Everything IoT</h4>
+		  <p class="mb-0 text-white-50">
+		    Whether building smart agriculture systems or smart homes & cities. This open, developer-first platform brings accessible, African-focused IoT solutions to life.
+		  </p>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </section>
+
+    <!-- Clients -->
+
+    <section id="clients"
+	     class="projects-section bg-light"
+	     >
+      <div class="container px-4 px-lg-5">
+	<h2 class="text-black-50 text-center mb-5">
+	  <i class="fa-solid fa-building mb-2"></i><br />
+	  Clients
+	</h2>
+
+	<!-- Almafrica -->
+	<div class="row gx-0 mb-5 mb-lg-0 justify-content-center pop">
+	  <div class="col-xl-8 col-lg-7">
+	    <img class="img-fluid mb-3 mb-lg-3"
+		 src="assets/AlmafricaMVPHomePage.png"
+		 alt="A screenshot of the Almafrica MVP's home page."
+		 />
+	  </div>
+	  <div class="col-lg-4">
+	    <div class="bg-black text-center h-100 project">
+	      <div class="d-flex h-100">
+		<div class="project-text w-100 my-auto text-center text-lg-right">
+		  <h4 class="text-white">Almafrica by Jean-Paul</h4>
+		  <p class="mb-0 text-white-50">
+		    An opportunity to demonstrate how technical decisions can be driven by user experience rather than by technology alone.
+		  </p><br />
+		  <a href="https://almafrica.kalkyokya.tech/"
+		     target="_blank"
+		     rel="noopener noreferrer">
+		    <i>Check it out here</i>
+		  </a>
+
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<!-- Coach Kirubi -->
+	<div class="row gx-0 mb-4 mb-lg-5 align-items-center pop">
+	  <div class="col-xl-8 col-lg-7">
+	    <img class="img-fluid mb-3 mb-lg-3"
+		 src="assets/CoachKirubiHomePage.png"
+		 alt="A screenshot of Coach Kirubi's online shop's home page."
+		 />
+	  </div>
+	  <div class="col-lg-4 order-lg-first">
+	    <div class="bg-black text-center h-100 project">
+	      <div class="d-flex h-100">
+		<div class="project-text w-100 my-auto text-center text-lg-right">
+		  <h4 class="text-white">Coach Kirubi</h4>
+		  <p class="mb-0 text-white-50">
+		    Online shop facilitating acquisition of premium coaching programs built for speed, strength, and peak performance.<br />
+		    Train like an athlete. Perform like a champion.
+		  </p><br />
+		  <a href="https://coachkirubi.kalkyokya.tech/"
+		     target="_blank"
+		     rel="noopener noreferrer">
+		    <i>Check it out here</i>
+		  </a>
+
+		</div>		
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+
+    <section id="football"
+	     class="projects-section bg-light"
+	     aria-labelledby="work-title"
+	     >
+      <div class="container px-4 px-lg-5">
+	<h2 id="work-title"
+	    class="text-black-50 text-center"
+	    >
+	  <i class="fa-solid fa-building mb-2"></i>
+	  <br />
+	  Football & editing
+	</h2>
+
+	<!-- Malisho -->
+	<div class="row gx-0 justify-content-center pop">
+	  <div class="col-lg-4 text-center">
+	    <img class="img-fluid"
+		 src="assets/malisho.png"
+		 alt="Icon of a non-profit named Malisho."
+		 />
+	  </div>
+	  <div class="col-lg-4 order-lg-first">
+	    <div class="bg-black text-center h-100 project">
+	      <div class="d-flex h-100">
+		<div class="project-text w-100 my-auto text-center text-lg-right">
+		  <h4 class="text-white">Malisho</h4>
+		  <p class="mb-0 text-white-50">
+		    A medical initiative aimed at promoting Mother-Child health and nutrition.<br />
+		    Marrying Agriculture and Medecine.
+		  </p><br />
+		  <a href="https://www.instagram.com/malisho_rdc"
+		     target="_blank"
+		     rel="noopener noreferrer">
+		    <i>Check it out here</i>
+		  </a>
+
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </section>
+
+    <!-- My story -->
+
+    <section id="story"
+	     class="story-section text-center"
+	     >
+      <div class="container px-4 px-lg-4 pop">
+	<div class="row gx-4 gx-lg-4 justify-content-center">
+	  <div class="col-lg-8">
+	    <h2 class="text-white mb-4">
+	      <i class="fa-solid fa-video"></i><br />
+	      My story
+	    </h2>
+	    <div class="col-lg-12 mb-5">
+	      <iframe width="100%"
+		      height="315"
+		      src="https://www.youtube.com/embed/NAO20Xa7EJA"
+		      >
+	      </iframe>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </section>
+
+    <!-- Contact -->
+
+    <section id="contact"
+	     class="contact-section bg-black">
+      <div class="container px-4 px-lg-5">
+	<div class="row gx-4 gx-lg-5">
+	  <div class="col-md-4 mb-3 mb-md-0">
+	    <div class="card py-4 h-100">
+	      <div class="card-body text-center">
+		<i class="fa-solid fa-file text-primary mb-2"></i>
+		<h4>CV</h4>
+		<hr class="my-4 mx-auto" />
+		<div class="small text-black-50">
+		  <a href="assets/Jean-Paul KYOKYA - CV.pdf"
+		     target="_blank"
+		     rel="noopener noreferrer"
+		     >
+		    Jean-Paul KYOKYA - CV
+		  </a>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 mb-3 mb-md-0">
+	    <div class="card py-4 h-100">
+	      <div class="card-body text-center">
+		<i class="fas fa-map-marked-alt text-primary mb-2"></i>
+		<h4>Address</h4>
+		<hr class="my-4 mx-auto" />
+		<div class="small text-black-50">
+		  <a href="https://www.google.com/maps?q=Nairobi,+Kenya"
+		     target="_blank"
+		     rel="noopener noreferrer">
+		    Nairobi, Kenya, Africa
+		  </a>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 mb-3 mb-md-0">
+	    <div class="card py-4 h-100">
+	      <div class="card-body text-center">
+		<i class="fas fa-envelope text-primary mb-2"></i>
+		<h4>Email</h4>
+		<hr class="my-4 mx-auto" />
+		<div class="small text-black-50">
+		  <a href="https://mail.google.com/mail/?view=cm&to=kalkyokya4@gmail.com"
+		     target="_blank"
+		     rel="noopener noreferrer">
+		    kalkyokya4@gmail.com		    
+		  </a>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div class="social d-flex justify-content-center">
+	  <a class="mx-auto"
+	     href="https://github.com/kal-kyokya/kal-kyokya/tree/main/weeklyWorkLog"
+	     target="_blank"
+	     rel="noopener noreferrer"
+	     >
+	    <img alt="GitHub"
+		 src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+	  </a>
+	  <a class="mx-auto"
+	     href="https://medium.com/@kal-kyokya"
+	     target="_blank"
+	     rel="noopener noreferrer"
+	     >
+	    <img alt="Twitter"
+		 src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
+	  </a>
+	  <a class="mx-auto"
+	     href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
+	     target="_blank"
+	     rel="noopener noreferrer"
+	     >
+	    <img alt="LinkedIn"
+		 src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+	  </a>
+	  <a class="mx-auto"
+	     href="https://www.instagram.com/kal_kyokya/"
+	     target="_blank"
+	     rel="noopener noreferrer"
+	     >
+	    <img alt="Instagram"
+		 src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+	  </a>
+	</div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+
+    <footer class="footer small text-center bg-black text-white-50">
+      &copy; 2024-2026<br /><br />
+
+      <em class="container px-4 px-lg-5">
+	Thank you for visiting kalkyokya.tech
+      </em>
+    </footer>
+
+    <!-- Bootstrap core JS-->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js">
+    </script>
+
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+
+  </body>
+</html>
