@@ -10481,6 +10481,7 @@ summary { cursor: pointer; padding: 1rem 0; }
 .footer { color: #aaa; }
 .footer a { color: #a5cfcb; }
 @media (max-width: 575.98px) {
+  .masthead { margin-block: 50%; }
   .masthead h1 { letter-spacing: .25rem; font-size: 2.3rem; line-height: 1.2; }
   .masthead h2 { font-size: 1.15rem; }
   .hero-description, .hero-secondary { font-size: .85rem; }
@@ -10496,4 +10497,3 @@ summary { cursor: pointer; padding: 1rem 0; }
 #mainNav.navbar-shrink .nav-link.active { color: #356e69; }
 .hero-copy { text-shadow: 0 2px 5px rgba(0, 0, 0, .8); }
 .hero-actions { text-shadow: none; }
-.mg-50 { margin-block: 50%; }
