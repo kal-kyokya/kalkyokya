@@ -10480,8 +10480,8 @@ summary { cursor: pointer; padding: 1rem 0; }
 .contact-note, .gmail-link { font-size: .9rem; }
 .footer { color: #aaa; }
 .footer a { color: #a5cfcb; }
-@media (max-width: 575.98px) {
-  .masthead { margin-block: 50%; }
+@media (max-width: 767.98px) {
+  .masthead .mg-50 { margin-block: 50%; }
   .masthead h1 { letter-spacing: .25rem; font-size: 2.3rem; line-height: 1.2; }
   .masthead h2 { font-size: 1.15rem; }
   .hero-description, .hero-secondary { font-size: .85rem; }
