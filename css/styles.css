@@ -10497,3 +10497,9 @@ summary { cursor: pointer; padding: 1rem 0; }
 #mainNav.navbar-shrink .nav-link.active { color: #356e69; }
 .hero-copy { text-shadow: 0 2px 5px rgba(0, 0, 0, .8); }
 .hero-actions { text-shadow: none; }
+
+@media (max-width: 992px) {
+    #football .pop:hover {
+	transform: none;
+    }
+}
